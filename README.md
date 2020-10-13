@@ -15,7 +15,7 @@ Eu sou desenvolvedor de software jr, tenho 25 anos de idade e possuo 2 anos de e
 
 ----
 
-**Languages and Tools:**  
+**Linguagens e Ferramentas:**  
 <code title="Java"><img height="30" src="https://api.iconify.design/logos:java.svg"></code>
 <code title="JavaScript"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </code>
