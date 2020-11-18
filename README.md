@@ -19,7 +19,7 @@ Eu sou desenvolvedor de software jr, tenho 25 anos de idade e possuo 2 anos de e
 <code title="Java"><img height="30" src="https://api.iconify.design/logos:java.svg"></code>
 <code title="JavaScript"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </code>
-<code title="React"> <img height="30" src="https://p7.hiclipart.com/preview/224/525/139/react-javascript-library-angularjs-github-native-thumbnail.jpg">
+<code title="React JS"> <img height="30" src="https://p7.hiclipart.com/preview/224/525/139/react-javascript-library-angularjs-github-native-thumbnail.jpg">
 </code>
 <code title="Python"><img height="30" src="https://api.iconify.design/logos:python.svg"></code>
 <code title="SQL"><img height="30" src="https://icons-for-free.com/iconfiles/png/512/file+sql+icon-1320183612970878250.png"></code>
