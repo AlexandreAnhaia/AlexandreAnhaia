@@ -10,7 +10,7 @@
 
 ---- 
 
-Eu sou desenvolvedor de software jr, tenho 25 anos de idade e possuo 2 anos de experiência como desenvolvedor junior.
+Eu sou desenvolvedor de software jr, tenho 27 anos de idade e possuo 3 anos e 6 meses de experiência como desenvolvedor junior.
 
 
 ----
