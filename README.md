@@ -1,10 +1,10 @@
 ### 👋🏾 Olá, meu nome é Alexandre Anhaia.
 
 <a target="_blank" href="https://www.linkedin.com/in/alexandre-anhaia-0bb1b5171/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a target="_blank" href="mailto:alexandreaa10@hotmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/6052/6052250.png" />
 </a>  
 </br>
 
