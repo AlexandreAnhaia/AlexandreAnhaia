@@ -28,6 +28,3 @@ Eu sou desenvolvedor de software jr, tenho 27 anos de idade e possuo 3 anos e 6 
 <code title="Android Studio"> <img height="30" src="https://p7.hiclipart.com/preview/483/345/293/android-studio-integrated-development-environment-intellij-idea-software-build-studio.jpg">
  <code title="Jhipster"> <img height="30" src="https://miro.medium.com/max/996/1*eJbH6ce7CmupKbfV8SLsPg.png">
 </code>
-
-----
-
