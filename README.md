@@ -10,7 +10,9 @@
 
 ---- 
 
-Eu sou desenvolvedor de software jr, tenho 27 anos de idade e possuo 3 anos e 6 meses de experiência como desenvolvedor junior.
+Atualmente trabalho principalmente com o desenvolvimento de software na parte de backend.
+Estou buscando em aprimorar meus conhecimentos em Java e também estou estudando Python.
+
 
 
 ----
