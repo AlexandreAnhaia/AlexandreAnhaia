@@ -1,6 +1,6 @@
 ### 👋🏾 Olá, meu nome é Alexandre Anhaia.
 
-<a target="_blank" href="https://www.linkedin.com/in/alexandre-anhaia-0bb1b5171/">
+<a target="_blank" href="https://www.linkedin.com/in/alexandre-anhaia">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a target="_blank" href="mailto:alexandreaa10@hotmail.com">
