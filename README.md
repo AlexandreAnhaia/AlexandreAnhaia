@@ -1,5 +1,5 @@
 <h1>
-    <span> 🚀 Alexandre Augusto Anhaia</span>
+    <span> Alexandre Augusto Anhaia 🚀 </span>
 </h1>
 
 Olá, sou formado em sistemas de informação pela Universidade Federal de Santa Catarina - UFSC. Tenho um pouco mais de quatro anos de experiência na área de desenvolvimento de software. Atualmente estou trabalhando no Instituto Senai de Inovação em Sistemas embarcados como pesquisador de software.
