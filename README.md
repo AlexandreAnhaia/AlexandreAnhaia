@@ -2,7 +2,7 @@
     <span> 🚀 Alexandre Augusto Anhaia</span>
 </h1>
 
-Olá, bem vindo ao meu perfil. Sou formado em sistemas de informação pela Universidade Federal de Santa Catarina - UFSC. Tenho um pouco mais de quatro anos de experiência na área de desenvolvimento de software. Atualmente estou trabalhando no Instituto Senai de Inovação em Sistemas embarcados como pesquisador de software.
+Olá, sou formado em sistemas de informação pela Universidade Federal de Santa Catarina - UFSC. Tenho um pouco mais de quatro anos de experiência na área de desenvolvimento de software. Atualmente estou trabalhando no Instituto Senai de Inovação em Sistemas embarcados como pesquisador de software.
 
 Atuo principalmente na parte do backend com a linguagem Java e utilizando o framework Spring, continuo me especializando e aprendendo cada vez mais em Java e backend em geral, mas também estou buscando me desenvolver na área de frontend com estudos em Javascript, React, HTML e CSS.
 
