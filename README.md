@@ -1,31 +1,50 @@
-### 👋🏾 Olá, meu nome é Alexandre Anhaia.
+<h1>
+    <span> 🚀 Alexandre Augusto Anhaia</span>
+</h1>
 
-<a target="_blank" href="https://www.linkedin.com/in/alexandre-anhaia">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<a target="_blank" href="mailto:alexandreaa10@hotmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/6052/6052250.png" />
-</a>  
-</br>
+Olá, bem vindo ao meu perfil. Sou formado em sistemas de informação pela Universidade Federal de Santa Catarina - UFSC. Tenho um pouco mais de quatro anos de experiência na área de desenvolvimento de software. Atualmente estou trabalhando no Instituto Senai de Inovação em Sistemas embarcados como pesquisador de software.
+
+Atuo principalmente na parte do backend com a linguagem Java e utilizando o framework Spring, continuo me especializando e aprendendo cada vez mais em Java e backend em geral, mas também estou buscando me desenvolver na área de frontend com estudos em Javascript, React, HTML e CSS.
 
 ---- 
 
-Atualmente trabalho principalmente com o desenvolvimento de software na parte de backend.
-Estou buscando em aprimorar meus conhecimentos em Java e também estou estudando Python.
+### Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/alexandreaa10)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/AlexandreAnhaia)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/AlexandreAnhaia/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:alexandreaa10@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/anhaaia/)
 
+---- 
 
+### Habilidades
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F) 
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-----
+---- 
 
-**Linguagens e Ferramentas:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://api.iconify.design/logos:java.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img align="center" alt="React JS" height="30" width="40" src="https://p7.hiclipart.com/preview/224/525/139/react-javascript-library-angularjs-github-native-thumbnail.jpg">
-  <img align="center" alt="Python" height="30" width="40" src="https://api.iconify.design/logos:python.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/512/file+sql+icon-1320183612970878250.png">
-  <img align="center" alt="Postman" height="30" width="40" src="https://api.iconify.design/logos:postman.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://api.iconify.design/logos:git-icon.svg">
-  <img align="center" alt="Android Studio" height="30" width="40" src="https://p7.hiclipart.com/preview/483/345/293/android-studio-integrated-development-environment-intellij-idea-software-build-studio.jpg">
-  <img align="center" alt="Jhipster" height="30" width="40" src="https://miro.medium.com/max/996/1*eJbH6ce7CmupKbfV8SLsPg.png">
+### Ferramentas
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---- 
+
+<div align="center">
+    <br>
+        <p align="centre"><b>Visitors Count</b> </p>  
+        <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AlexandreAnhaia}/count.svg" /> </p> 
+    <br>
 </div>
